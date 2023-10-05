@@ -2,7 +2,7 @@
 
 Welcome to my portfolio. Below, you will find my projects separated by the main tool/language used.
 
-_\**As I continue to update and add to this page, and as projects become more complex in scope (i.e. various tools per project), I might change the portfolio design to better organize the projects listed below\**_
+_\**As I continue to update and add to this page, and as projects become more complex in scope (i.e. various tools per project), I might change the portfolio design to better organize these projects\**_
 
 ---
 ## 📖 Table of Contents
@@ -32,12 +32,12 @@ _\**As I continue to update and add to this page, and as projects become more co
 
 | Project Name | Project Description | Analysis Performed | Libraries |
 | --- | --- | --- | --- |
-| 🚲 [Exploring US Bike Sharing Data](link) | Developed a Python script with pandas that takes raw input from the user and creates an interactive experience exploring bike sharing data between 3 major US cities. Summary statistics are generated based on the appropriate filters applied to the DataFrame. | <ul><li>Wrote a fully-functioning Python script taking in raw user input, handling all errors & exceptions</li><li>Loaded, manipulated and converted Series to appropriate data types for analysis, performing aggregations when applicable</li><li>Computed various descriptive statistics based on filters passed through DataFrame</li></ul>| pandas |
+| 🚲 [Exploring US Bike Sharing Data](https://github.com/tuckercp/Exploring-US-Bike-Share-Data) | Developed a Python script with pandas that takes raw input from the user and creates an interactive experience exploring bike sharing data between 3 major US cities. Summary statistics are generated based on the appropriate filters applied to the DataFrame. | <ul><li>Wrote a fully-functioning Python script taking in raw user input, handling all errors & exceptions</li><li>Loaded, manipulated and converted Series to appropriate data types for analysis, performing aggregations when applicable</li><li>Computed various descriptive statistics based on filters passed through DataFrame</li></ul>| pandas |
 
 ---
 ## 🖼️ Tableau
 
 | Project Name | Project Description | Analysis Performed | Dashboard Link |
 | --- | --- | --- | --- |
-| ✈️ [US Flight Delays and Cancellations](link) | Created a set of visualizations tracking the on-time performance of US domestic flights operated by large airline carriers. Combined 
+| ✈️ [US Flight Delays and Cancellations](link) | Created a series of visualizations which were combined into 3 dynamic dashboards, tracking the on-time performance of US domestic flights operated by large airline carriers. Each dashboard was accompanied by a brief explanation of both the content and design choices for the visualizations. | <ul><li>Developed 9 interactive worksheets combined through 3 data sources, including the use of various filters, marks & calculated fields</li></ul>|[Dashboard #1](https://public.tableau.com/app/profile/corey.tucker/viz/2015USFlightDelays_16737435023730/DOMESTICDASHBOARD) [Dashboard #2](https://public.tableau.com/app/profile/corey.tucker/viz/2015USAirlineDelays/DELAYEDAIRLINES) [Dashboard #3](https://public.tableau.com/app/profile/corey.tucker/viz/2015USAirlineDepartureDelaysCancellations/AIRLINESCANCEL?publish=yes) |
 
