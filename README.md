@@ -17,7 +17,7 @@ _\**As I continue to update and add to this page, and as projects become more co
 
 | Project Name | Project Description | Analysis Performed |
 | --- | --- | --- |
-| 💵 [Analyze NYSE Data](link) | Performed EDA on S&P 500 financial data from the NYSE, creating 2 Excel dashboards; a P&L statement and a forecasting model for companies within a selected GICS subindustry. All findings were documented in presentation slides and shared through several different types of visualizations. | <ul><li>Calculated summary statistics (measures of central tendency & spread)</li><li>Built a dynamic P&L dashboard & financial model using advanced functions (i.e INDEX, MATCH, OFFSET)</li><li>Created a series of visualizations communicating findings (i.e. bar charts, box-plots, scatterplots) </li>  |
+| 💵 [Analyze NYSE Data](https://github.com/tuckercp/Udacity-Business-Analytics-ND/blob/main/Project-1-Analyze-NYSE-Data/Excel_ProjectNYSE.ipynb) | Performed EDA on S&P 500 financial data from the NYSE, creating 2 Excel dashboards; a P&L statement and a forecasting model for companies within a selected GICS subindustry. All findings were documented in presentation slides and shared through several different types of visualizations. | <ul><li>Calculated summary statistics (measures of central tendency & spread)</li><li>Built a dynamic P&L dashboard & financial model using advanced functions (i.e INDEX, MATCH, OFFSET)</li><li>Created a series of visualizations communicating findings (i.e. bar charts, box-plots, scatterplots) </li>  |
 
 ---
 ## 💾 SQL
