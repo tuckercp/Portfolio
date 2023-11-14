@@ -7,10 +7,10 @@ _\**As I continue to update and add to this page, and as projects become more co
 ---
 ## 📖 Table of Contents
 
-- [Excel](#Excel)
-- [SQL](#SQL)
-- [Python](#Python)
-- [Tableau](#Tableau)
+- [Excel](#excel)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
 
 ---
 ## 📊 Excel
@@ -24,7 +24,7 @@ _\**As I continue to update and add to this page, and as projects become more co
 
 | Project Name | Project Description | Analysis Performed |
 | --- | --- | --- |
-| 🍿 [Sakila DVD Rental Database](link) |  Generated a series of questions to be answered through SQL queries with the goal of gaining a better understanding of the company's customer base. Each query included a supporting visualization and summary of the findings from the questions. | <ul><li>Executed various queries, each of which contained JOINS, aggregations, CTEs and subqueries</li><li>Performed window functions calculating running totals</li><li>Created visualizations and summaries reflecting the findings from the queries performed</li></ul>
+| 🍿 [Sakila DVD Rental Database](https://github.com/tuckercp/Udacity-Programming-for-Data-Science-ND/blob/main/Project-1-Investigate-Relational-DB/Sakila_SQL_Project.ipynb) |  Generated a series of questions to be answered through SQL queries with the goal of gaining a better understanding of the company's customer base. Each query included a supporting visualization and summary of the findings from the questions. | <ul><li>Executed various queries, each of which contained JOINS, aggregations, CTEs and subqueries</li><li>Performed window functions calculating running totals</li><li>Created visualizations and summaries reflecting the findings from the queries performed</li></ul>
 | 🎹 [Chinook Digital Music Store Database](https://github.com/tuckercp/Udacity-Business-Analytics-ND/blob/main/Project-2-Query-Music-Store/SQL_Project.ipynb) | Queried the database with the aim of providing a deeper understanding of their media, customers, employees and/or invoice information. All queries and findings were exported to .csv files and subsequently accompanied by presentation slides. | <ul><li>Ran several queries using JOINS, aggregations and subqueries/CTEs where applicable</li><li>Produced a series of visualizations derived from the exported queries</li></ul>
 
 ---
